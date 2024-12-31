@@ -94,7 +94,7 @@ UIAspectRatioConstraint_3.Parent = Icon_2
 
 -- Scripts:
 
-local function SVILX_fake_script() -- HubButton.TweenHub 
+local function FAHZKN_fake_script() -- HubButton.TweenHub1 
 	local script = Instance.new('LocalScript', HubButton)
 
 	local UIS = game:GetService('UserInputService')
@@ -157,4 +157,4 @@ local function SVILX_fake_script() -- HubButton.TweenHub
 	
 	valuehub.Changed:Connect(tweenvaluehub)
 end
-coroutine.wrap(SVILX_fake_script)()
+coroutine.wrap(FAHZKN_fake_script)()
